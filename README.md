@@ -1,12 +1,55 @@
-# React + Vite
+# Chatbot Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive chatbot web application built with React and JavaScript, designed to provide an interactive conversational user experience.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Interactive chatbot interface
+* User message input
+* Chat message display
+* Automated chatbot responses
+* Responsive user interface
+* React component-based architecture
+* State management for chat messages
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React
+* JavaScript
+* HTML
+* CSS
+* Vite
+
+## 🏗️ Project Structure
+
+```text id="7r5kq8"
+chatbot-project/
+│
+├── src/
+│   ├── components/
+│   ├── assets/
+│   └── ...
+│
+├── public/
+├── package.json
+└── README.md
+```
+
+## 🎯 Project Purpose
+
+This project was built to practice React fundamentals and create an interactive web application.
+
+It demonstrates:
+
+* React components
+* State management
+* Event handling
+* User input handling
+* Dynamic UI rendering
+* Responsive design
+
+## 👨‍💻 Developer
+
+**Anil Nalamati**
+
+Java Full Stack Developer
